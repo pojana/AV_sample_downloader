@@ -7,7 +7,7 @@ import re
 from concurrent.futures import ThreadPoolExecutor
 import sys
 
-save_path = 'H:\\いろいろ\\av\\_Fanza_sampleImgs\\'
+save_path = ''
 
 headers = {
     "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0"
